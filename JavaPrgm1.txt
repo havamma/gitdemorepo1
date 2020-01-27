@@ -1,5 +1,8 @@
+
+
 public class SearchlastString {
    public static void main(String[] args) {
+
       String strOrig = "Hello world ,Hello Reader";
       int lastIndex = strOrig.lastIndexOf("Hello");
       
